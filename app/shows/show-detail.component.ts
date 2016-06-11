@@ -18,7 +18,7 @@ import { DialogService } from '../dialog.service';
         </div>
         <div>
             <button class="btn btn-default" (click)="save()">Save</button>
-            <button class="btn btn-default" (click)="save()">Cancel</button>
+            <button class="btn btn-default" (click)="cancel()">Cancel</button>
         </div>
     </div>
     `
